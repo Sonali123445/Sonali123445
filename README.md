@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Sonali Singh
 
-<!--
-**Sonali123445/Sonali123445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IIT Patna Graduate | Backend Software Engineer | Java | Spring Boot | Microservices
 
-Here are some ideas to get you started:
+I’m a Software Engineer with 1.25+ year of experience building
+production-grade backend services using Java, Spring Boot,
+REST APIs, Kafka, PostgreSQL, and distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Currently
+• Building scalable backend services
+• Working with microservices and event-driven systems
+• Preparing for SDE-1 / Backend Software Engineer opportunities
+
+🛠️ Tech Stack
+Java | Spring Boot | Spring Security | Kafka | PostgreSQL
+Microservices | REST APIs | Docker | Kubernetes | Git
+
+
+📚 Core Strengths
+• Data Structures & Algorithms
+• Object-Oriented Design
+• Low-Level Design
+• Backend Architecture
+• Distributed Systems
+
+📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/sonali-singh-000081230/) | 
+[Resume](https://drive.google.com/file/d/1ptNx9bCwVf9ixLpg9dSVEMSLOEZ9qv8C/view?usp=sharing)
