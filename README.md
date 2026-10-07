@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sonali Singh!
 
-### 💻 IIT Patna Graduate |Backend Software Engineer | Java | Spring Boot | Microservices
+### 💻 IIT Patna Graduate | Backend Software Engineer | Java | Spring Boot | Microservices
 
 I'm a Backend Software Engineer and IIT Patna graduate with 1+ year of
 experience building production-grade backend services.
