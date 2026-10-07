@@ -1,27 +1,64 @@
-👋 Hi, I'm Sonali Singh
+# 👋 Hey, I'm Sonali Singh!
 
-IIT Patna Graduate | Backend Software Engineer | Java | Spring Boot | Microservices
+### 💻 Backend Software Engineer | Java | Spring Boot | Microservices
 
-I’m a Software Engineer with 1.25+ year of experience building
-production-grade backend services using Java, Spring Boot,
-REST APIs, Kafka, PostgreSQL, and distributed systems.
+I'm a Backend Software Engineer and IIT Patna graduate with 1+ year of
+experience building production-grade backend services.
 
-🎯 Currently
-• Building scalable backend services
-• Working with microservices and event-driven systems
-• Preparing for SDE-1 / Backend Software Engineer opportunities
+🚀 I enjoy designing scalable backend systems, working with
+microservices, distributed systems, event-driven architectures,
+and solving challenging problems.
 
-🛠️ Tech Stack
-Java | Spring Boot | Spring Security | Kafka | PostgreSQL
-Microservices | REST APIs | Docker | Kubernetes | Git
+---
 
+## ⚡ About Me
 
-📚 Core Strengths
-• Data Structures & Algorithms
-• Object-Oriented Design
-• Low-Level Design
-• Backend Architecture
-• Distributed Systems
+🎓 IIT Patna — B.Tech in Electrical & Electronics Engineering
+
+💻 Backend Software Engineer - GlobalLogic Ind Pvt Ltd
+
+☕ Java | Spring Boot | Spring Security | Microservices | gRPC | Apache Kafka
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- 🔨 Building scalable backend microservices
+- ⚡ Working with event-driven architectures using Kafka
+- 🗄️ Designing and optimizing database queries
+- 🔐 Building secure APIs using OAuth 2.0, JWT and RBAC
+- 🧪 Writing unit and integration tests
+- 📚 Improving my DSA, LLD and System Design skills
+
+---
+
+<h2>⚡ My Achievements 🏆</h2>
+
+<table>
+<tr>
+<td><b>🌟 Google WISH Scholar</b></td>
+<td>🏅 Selected as a Top 50 Scholar nationwide from 11,000+ applicants.</td>
+</tr>
+
+<tr>
+<td><b>🏆 IIT Patna</b></td>
+<td>🎓 B.Tech in Electrical & Electronics Engineering.</td>
+</tr>
+
+<tr>
+<td><b>💻 Code Like Ada by LG Ad Solutions</b></td>
+<td>🚀 Secured position in Top 50 across the country..</td>
+</tr>
+
+<tr>
+<td><b>⚡ Young Turks Contest by Naukari</b></td>
+<td>🔥 secured position in Top 60 across the country.</td>
+</tr>
+</table>
+
+<br>
+
+<hr>
 
 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/sonali-singh-000081230/) | 
